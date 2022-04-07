@@ -6,3 +6,6 @@ https://brilliant-churros-40366f.netlify.app/
 
 Vercel at:
 https://static-site-hosting-test.vercel.app/
+
+Firebase hosting at:
+https://static-site-hosting-test-2022.web.app/
