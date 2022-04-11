@@ -1,4 +1,5 @@
 export default function handler(request, response) {
+  response.setHeader("Access-Control-Allow-Origin", "*");
   response.status(200).send(`
 	<!DOCTYPE html>
 	<html lang="en">
